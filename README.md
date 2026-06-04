@@ -1,2 +1,3 @@
-# Data_Analysis_Dashboard
-I developed a comprehensive project in Excel, creating  dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
+# US_Helathcare_Case_Study
+##Objective:
+This project analyzes a US healthcare dataset containing patient demographics, admission details, medical conditions, billing information, and insurance data from 100 hospitals. The objective is to derive actionable insights for healthcare executives through data cleaning, exploratory data analysis, visualization, and business recommendations.
